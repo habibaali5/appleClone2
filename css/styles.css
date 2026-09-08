@@ -119,3 +119,7 @@ img {
 .second-iPhone-pro-wrapper {
   background: url("../images/home/iphone11-pro-bg.jpg") center / cover no-repeat;
 }
+/*Third Highlight Section */
+.third-iPhone11-wrapper {
+  background: url("../images/home/iphone11-bg.jpg") center / cover no-repeat;
+}
