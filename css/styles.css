@@ -115,3 +115,7 @@ img {
 .first-macBook-pro-wrapper {
   background-color: #fafafa;
 }
+/* ---> second-section-style <---- */
+.second-iPhone-pro-wrapper {
+  background: url("../images/home/iphone11-pro-bg.jpg") center / cover no-repeat;
+}
