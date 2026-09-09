@@ -59,6 +59,18 @@ img {
   background-repeat: no-repeat;
   background-color: #fafafa;
 }
+/*! Sixth section */
+.right-side-wrapper {
+  background-image: url("../images/home/new-ipad.jpg");
+  height: 36.25rem;
+  background-position: center;
+}
+.left-side-wrapper {
+  background-image: url("../images/home/macbook-pro.jpg");
+  background-position: bottom;
+  height: 36.25rem;
+  background-repeat: no-repeat;
+}
 
 /* Footer Styling */
 .footer-wrapper {
