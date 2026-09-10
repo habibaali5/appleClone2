@@ -45,6 +45,22 @@ img {
   margin-right: 40px !important;
 }
 
+.left-side {
+  background-image: url(../images/home/watch-series-5.jpg);
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #fafafa;
+}
+.right-side {
+  background-image: url(../images/home/apple-card.jpg);
+  height: 580px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: #fafafa;
+}
+
+
 
 /* Footer Styling */
 .footer-wrapper {
