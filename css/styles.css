@@ -41,7 +41,7 @@ img {
   padding: 4px 0;
   border-bottom: 1px solid #4b4b4b;
 }
-.navbar-brand{
+.navbar-brand {
   margin-right: 40px !important;
 }
 
@@ -59,8 +59,6 @@ img {
   background-repeat: no-repeat;
   background-color: #fafafa;
 }
-
-
 
 /* Footer Styling */
 .footer-wrapper {
@@ -137,4 +135,27 @@ img {
 /*Third Highlight Section */
 .third-iPhone11-wrapper {
   background: url("../images/home/iphone11-bg.jpg") center / cover no-repeat;
+}
+
+.apple-tv {
+  background-image: url("../images/home/apple-tv-background.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+  min-height: 580px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.airpods {
+  background-image: url("../images/home/air-pods.jpg");
+  /* background-size: contain; */
+  background-position: center bottom;
+  background-repeat: no-repeat;
+
+  min-height: 580px;
+  background-color: black;
 }
